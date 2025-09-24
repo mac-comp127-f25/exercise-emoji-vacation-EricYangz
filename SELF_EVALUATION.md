@@ -48,11 +48,13 @@ sentence or two in response to each question is plenty.
 
 **What did you miss? What did you wish you did better?**
 
-
+I missed to give the value of the parameter in addMontain() and addForest()(just the defult sidelength) at first so that there is noting on the slide. 
 
 **What challenges did you face, and how did you overcome them?**
 
-
+The main challenge for me is try to coding without understand every details. It is counterintuitive. When I try to not think the details of the function and just use it, I overcome it.
 
 **What is something that was interesting or exciting, or a lesson you learned
   from this experience that you want to remember?**
+
+I feel like how the random method crate varied scenes is interesting. I learned to consider modularity at first, which is easy to make new extensions.
